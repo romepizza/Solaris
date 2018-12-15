@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5a7b85d3c327974468ac313ccd261773
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_deathExplosion: {instanceID: 0}
+  - m_attachSystemScript: {instanceID: 0}
+  - m_attachedToScript: {instanceID: 0}
+  - m_ejectorScript: {instanceID: 0}
+  - m_wormScript: {instanceID: 0}
+  - m_grabScript: {instanceID: 0}
+  - m_ejectScript: {instanceID: 0}
+  - m_rb: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
